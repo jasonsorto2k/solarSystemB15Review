@@ -8,7 +8,7 @@ public class Main {
 
         sun fero = new sun();
         fero.color="Red";
-        fero.temperature=34234;
+        fero.temperature="34234";
         fero.heat="3243243243k";
     }
 }
